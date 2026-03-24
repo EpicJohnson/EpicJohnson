@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EpicJohnson
-- 👀 I’m interested in ... making my life as a sysadmin easyer
+- 👀 I’m interested in ... making my life as a sysadmin easier
 - 🌱 I’m currently learning ... powershell
 - 💞️ I’m looking to collaborate on ... nothing at the moment
 - 📫 How to reach me ... you don't :)
